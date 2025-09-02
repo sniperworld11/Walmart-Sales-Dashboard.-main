@@ -1,4 +1,4 @@
-# Satvik's Walmart-Sales-Dashboard.
+# Walmart-Sales-Dashboard.
 
 ## Problem Statement
 
